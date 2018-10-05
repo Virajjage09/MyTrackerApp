@@ -13,6 +13,8 @@ Refer Link to Generate Google Maps Key - https://developers.google.com/maps/docu
 
 Now register your app on firebase, we are using RealTime Database and Firebase Authentication in this Application. 
 
+Please update your Google Maps Key in "google_maps_api.xml" and copy your "google-services.json" file generated from firebase into application.
+
 kindly follow code labs URL for step by step guide.
 
 Happy Coding:)
